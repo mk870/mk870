@@ -9,7 +9,7 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <br />
-<div style="padding-top:54.000%;position:relative;"><iframe src="https://gifer.com/embed/BeYl" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="80%" height="80%" style='position:absolute;top:0;left:0;' ></img>()
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
